@@ -5,6 +5,10 @@ This project implements an automated computer vision solution for Quality Assura
 
 The system is designed to detect 6 common types of PCB defects, calculate their severity based on size, and generate both a visual annotation and a structured JSON report for integration with manufacturing systems.
 
+Dataset: https://www.kaggle.com/datasets/akhatova/pcb-defects
+
+
+
 ## 🚀 Key Features
 * **Multi-Class Detection:** Identifies 6 specific PCB defects:
     * `Missing_hole`, `Mouse_bite`, `Open_circuit`, `Short`, `Spur`, `Spurious_copper`
